@@ -1,6 +1,10 @@
 # 💫 About Me:
-- Game Dev Intern, currently shaping worlds where logic and chaos shake hands<br>- Founder of Zency Studios, turning caffeine and ideas into digital stories<br>- Creative Lead at I&E Board, CMR, helping wild concepts land on their feet<br>- exploring Roblox + UE5, hunting for mechanics that feel good to play<br>- building prototypes powered by curiosity, late nights, and stubborn ambition
-
+const Intent = {
+  roles: ["Game Dev Intern", "Founder @ Zency Studios", "Creative Lead @ I&E Board, CMR"],
+  builds: ["Roblox", "UE5"],
+  vibe: "Game mechanics, prototypes, late nights",
+  drivenBy: ["curiosity", "caffeine", "ambition"]
+};
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/insaneboi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Vh28kz9UzK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudeep.mukul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeep-mukul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IntentFx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@intentirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudeepmukul@gmail.com) 
