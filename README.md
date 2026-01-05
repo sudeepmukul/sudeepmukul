@@ -1,9 +1,13 @@
 # 💫 About Me:
 const Intent = {
   roles: ["Game Dev Intern", "Founder @ Zency Studios", "Creative Lead @ I&E Board, CMR"],
+  
   builds: ["Roblox", "UE5"],
+  
   vibe: "Game mechanics, prototypes, late nights",
+  
   drivenBy: ["curiosity", "caffeine", "ambition"]
+  
 };
 
 ## 🌐 Socials:
