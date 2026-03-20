@@ -1,6 +1,6 @@
 # 💫 About Me:
 ```
-const Intent = {
+const Sudeep Intent = {
   roles: [
     "Game Dev Intern",
     "Founder @ Zency Studios",
