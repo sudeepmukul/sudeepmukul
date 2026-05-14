@@ -4,7 +4,7 @@
 
 <h1 align="left">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=00F7FF&width=900&height=100&duration=4000&lines=$+whoami;>+Intent;$+status;>+building+games+and+ai;$+current_focus;>+Unreal+Engine+%2F+Creative+Tech;$+dream;>+create+worlds+people+remember;$+sudo+rm+-rf+/limits;>+Permission+Denied" 
+    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=00F7FF&width=900&height=100&duration=4000&lines=$+whoami;>+Intent;$+status;>+building+games+and+ai;$+current_focus;>+AI+ML+%2F+Game+Development+%2F+Creative+Tech;$+dream;>+create+art+that+people+remember;" 
   />
 </h1>
 
@@ -41,7 +41,7 @@ Graphic Designer
 
 ---
 
-# 🎮 Tech Stack
+# :) Tech Stack
 
 <p align="center">
 
@@ -57,7 +57,7 @@ Graphic Designer
 
 ---
 
-# 🧠 Current Inventory
+# :) Current Inventory
 
 ```bash
 > Unreal Engine 5
@@ -73,7 +73,7 @@ Graphic Designer
 
 ---
 
-# 🐍 Contribution Snake
+# :) Contribution Snake
 
 <p align="center">
   <img 
@@ -84,7 +84,7 @@ Graphic Designer
 
 ---
 
-# ⚔️ Philosophy
+# :) Philosophy
 
 ```cpp
 while(alive)
@@ -99,7 +99,7 @@ while(alive)
 
 ---
 
-# 🌌 Connect
+# :) Connect
 
 <p align="center">
 
@@ -144,7 +144,7 @@ while(alive)
 <div align="center">
 
 ```diff
-+ "Eye of Heaven are those often eyes filled with Intent."
++ "Eyes of Heaven are those often eyes filled with Intent."
 ```
 
 ### — Intent
