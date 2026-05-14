@@ -1,24 +1,152 @@
-# 💫 About Me:
-```
-const Sudeep Intent = {
-  roles: [
-    "Game Dev Intern",
-    "Founder @ Zency Studios",
-    "Creative Lead @ I&E Board, CMR"
-  ],
-  builds: ["Roblox", "UE5"],
-  vibe: "Game mechanics, prototypes, late nights",
-  drivenBy: ["curiosity", "caffeine", "ambition"]
-};
-```
+<!-- ========================================= -->
+<!--               INTENT README               -->
+<!-- ========================================= -->
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/insaneboi) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Vh28kz9UzK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudeep.mukul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeep-mukul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IntentFx) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@intentirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudeepmukul@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<h1 align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Monaco&size=28&color=00F7FF&width=900&height=100&duration=4000&lines=$+whoami;>+Intent;$+status;>+building+games+and+ai;$+current_focus;>+Unreal+Engine+%2F+Creative+Tech;$+dream;>+create+worlds+people+remember;$+sudo+rm+-rf+/limits;>+Permission+Denied" 
+  />
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sudeepmukul&icon=5&color=7)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td>
+
+<pre>
+██╗███╗   ██╗████████╗███████╗███╗   ██╗████████╗
+██║████╗  ██║╚══██╔══╝██╔════╝████╗  ██║╚══██╔══╝
+██║██╔██╗ ██║   ██║   █████╗  ██╔██╗ ██║   ██║
+██║██║╚██╗██║   ██║   ██╔══╝  ██║╚██╗██║   ██║
+██║██║ ╚████║   ██║   ███████╗██║ ╚████║   ██║
+╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═══╝   ╚═╝
+</pre>
+
+<p align="center">
+CEO & Co-Founder @ Zency Studios <br>
+Game Developer <br>
+Graphic Designer
+</p>
+
+</td>
+
+<td>
+
+<img src="https://raw.githubusercontent.com/Mummanajagadeesh/Mummanajagadeesh/main/assets/rickroll.gif" height="300px"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎮 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,lua,java,html,css,javascript,figma,unreal&theme=dark" height="45"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=photoshop,premiere,aftereffects" height="45"/>
+
+</p>
+
+---
+
+# 🧠 Current Inventory
+
+```bash
+> Unreal Engine 5
+> Roblox Development
+> AI Platforms
+> Creative Technology
+> UI/UX Design
+> Video Editing
+> Graphic Design
+> Game Systems
+> Storytelling
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/sudeepmukul/sudeepmukul/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
+
+---
+
+# ⚔️ Philosophy
+
+```cpp
+while(alive)
+{
+    Skill newSkill = learn();
+
+    inventory.push_back(newSkill);
+
+    evolve("polymath");
+}
+```
+
+---
+
+# 🌌 Connect
+
+<p align="center">
+
+<a href="https://github.com/sudeepmukul">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="38"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sudeep-mukul-5571a3275/">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="38"/>
+</a>
+
+<a href="https://www.instagram.com/sudeep.mukul/">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="38"/>
+</a>
+
+<a href="https://discord.gg/Vh28kz9UzK">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" height="38"/>
+</a>
+
+<a href="https://x.com/IntentFx">
+  <img src="https://cdn.simpleicons.org/x/white" height="38"/>
+</a>
+
+<a href="https://www.reddit.com/user/Ok_Arm_9076/">
+  <img src="https://cdn.simpleicons.org/reddit/FF4500" height="38"/>
+</a>
+
+<a href="https://leetcode.com/u/intentirl/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="38"/>
+</a>
+
+<a href="https://codolio.com/profile/intentfx">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="38"/>
+</a>
+
+</p>
+
+---
+
+<br>
+
+<div align="center">
+
+```diff
++ "Eye of Heaven are those often eyes filled with Intent."
+```
+
+### — Intent
+
+</div>
