@@ -26,7 +26,8 @@
 <p align="center">
 CEO & Co-Founder @ Zency Studios <br>
 Game Developer <br>
-Graphic Designer
+Graphic Designer <br>
+AI Engineer
 </p>
 
 </td>
