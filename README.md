@@ -56,6 +56,15 @@ AI Engineer
 
 </p>
 
+# :) AI & Frameworks
+
+<p align="center">
+
+<img src="https://cdn.simpleicons.org/langchain" height="45"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" height="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="45"/>
+
+</p>
 ---
 
 # :) Current Inventory
@@ -64,12 +73,11 @@ AI Engineer
 > Unreal Engine 5
 > Roblox Development
 > AI Platforms
-> Creative Technology
-> UI/UX Design
+> RAG Systems
+> Agentic AI
 > Video Editing
 > Graphic Design
 > Game Systems
-> Storytelling
 ```
 
 ---
